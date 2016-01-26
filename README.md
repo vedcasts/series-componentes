@@ -1,9 +1,3 @@
-Instruções de instalação
-
-. git clone 
-. cd pasta do projeto
-. npm install && npm run dev
-
 ## Vedcasts.com.br - Séries - HTML Components
 
 O código fonte deste repositório foi desenvolvido durante a série de aulas sobre HTML Components encontrada em [http://www.vedcasts.com.br/series/html-components](http://www.vedcasts.com.br/series/html-components).
